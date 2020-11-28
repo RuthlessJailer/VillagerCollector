@@ -1,0 +1,9 @@
+name: VillagerCollector
+version: ${project.version}
+main: com.ruthlessjailer.plugin.villagercollector.VillagerCollector
+api-version: 1.15
+
+permissions:
+  villagercollector.use:
+    default: true
+    description: Allows player to collect villagers with buckets.
